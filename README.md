@@ -4,6 +4,6 @@
 - [Block Fighter](https://github.com/lhqdecimy/block-fighter)
 
 # Gamse:
-- [Block Fighter](https://lhqdecimy.github.io/block-fighter/block-fighter)
+- [Block Fighter](https://lhqdecimy.github.io/block-fighter)
 
 [Bilibili](https://space.bilibili.com/2044169085)
